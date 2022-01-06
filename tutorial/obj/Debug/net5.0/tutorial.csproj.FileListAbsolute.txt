@@ -1,0 +1,16 @@
+C:\dotnetProjects\C#Nutshell\tutorial\bin\Debug\net5.0\tutorial.exe
+C:\dotnetProjects\C#Nutshell\tutorial\bin\Debug\net5.0\tutorial.deps.json
+C:\dotnetProjects\C#Nutshell\tutorial\bin\Debug\net5.0\tutorial.runtimeconfig.json
+C:\dotnetProjects\C#Nutshell\tutorial\bin\Debug\net5.0\tutorial.runtimeconfig.dev.json
+C:\dotnetProjects\C#Nutshell\tutorial\bin\Debug\net5.0\tutorial.dll
+C:\dotnetProjects\C#Nutshell\tutorial\bin\Debug\net5.0\ref\tutorial.dll
+C:\dotnetProjects\C#Nutshell\tutorial\bin\Debug\net5.0\tutorial.pdb
+C:\dotnetProjects\C#Nutshell\tutorial\obj\Debug\net5.0\tutorial.csproj.AssemblyReference.cache
+C:\dotnetProjects\C#Nutshell\tutorial\obj\Debug\net5.0\tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnetProjects\C#Nutshell\tutorial\obj\Debug\net5.0\tutorial.AssemblyInfoInputs.cache
+C:\dotnetProjects\C#Nutshell\tutorial\obj\Debug\net5.0\tutorial.AssemblyInfo.cs
+C:\dotnetProjects\C#Nutshell\tutorial\obj\Debug\net5.0\tutorial.csproj.CoreCompileInputs.cache
+C:\dotnetProjects\C#Nutshell\tutorial\obj\Debug\net5.0\tutorial.dll
+C:\dotnetProjects\C#Nutshell\tutorial\obj\Debug\net5.0\ref\tutorial.dll
+C:\dotnetProjects\C#Nutshell\tutorial\obj\Debug\net5.0\tutorial.pdb
+C:\dotnetProjects\C#Nutshell\tutorial\obj\Debug\net5.0\tutorial.genruntimeconfig.cache
